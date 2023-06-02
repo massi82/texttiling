@@ -1,0 +1,137 @@
+The ‘move fast and break things’ standard operating practices are in hyperdrive. Each industry across all sectors are trying their best to implement large language model (LLM) in some areas within their business operations. There’s a frenzy and serious FOMO (fear-of-missing-out) on maintaining a competitive advantage.
+
+People are already overwhelmed with the shear volume of content available online. We have social media platforms, search engines, blog/media sites, video sharing platforms, news sites and the list goes on. Now we have generative AI. The first question when you hear a new term is ‘What is that? And explain it so that a regular person can understand.’ Well, here goes. Generative AI, nicknamed Gen AI, refers to a collection of algorithms that can seemingly manufacture content like text, images and video, using content grabbed from online sources. In the real world, we’ve seen examples like DALL-E (AI art), ChatGPT (AI writing) and most recently, Timberland orchestrating a song collaboration with The Notorious B.I.G. (AI song).
+
+While generative AI adoption has yet to solidify, there’s a limited window to inform equity practices into existing systems, tools and platforms. And there’s an even shorter time allotment to identify, consider and intervene on potential harms initiated by generative AI. My top 3 unsavory consequences of using generative AI are its propensity in (1) boosting disinformation, (2) extending surveillance practices and (3) normalizing a bot-trusted AI-illiterate society.
+
+At its core, AI-generated content is at best a regurgitation of someone else’s words and at worse sanctioned deceit. You can make up *anything* — that’s the premise. You can manufacture content from words, images, video and songs using unknown and unvetted repositories. There aren’t any checks and balances of what is truthful or legally available for public use. Narratives can be promoted or suppressed without distinguishing their authenticity. This actually sounds like the current state of automated content moderation. Check out my algorithmic misogynoir piece sponsored by Heinrich-Boell-Stiftung. But I digress.
+
+Anyway, disinformation creeps in when content lacks context, situational awareness and/or historical reflection. You are allowed to flood digital systems and platforms without guardrails. The limited content moderation that’s being executed has started to disintegrate. We’re left scrabbling to flag the false content, extract it from our digital infrastructure and prove why it’s untrue. We should instead be focus on propagating true, accurate and equity-affirming content.
+
+Tracking our digital movements has been happening since before we turned on our first mobile device. Many people think of surveillance strictly as facial recognition. But surveillance also includes recording our keystrokes. To statistical models and the algorithms that leverage them, every person is a collection of characteristics that have an associative numerical value. My characteristics in data/AI systems are tagged as Black, woman, U.S. citizen, PhD as highest earned degree, non-veteran, no disabilities, and other features that capture my personhood. My interactions with apps like what I view, click, respond and so on are logged, synthesized and aggregated to help companies perform effective targeted marketing. And this type of targeting is happening to each of us with and without our informed consent. The rise of apps and platforms requiring user accounts makes it easy to track how, when, where and what we connect to digitally.
+
+Now with generative AI, our personal characteristics and online activities are supercharged to collect even more content about our online interactions and freely interpret them for additional business benefit. This is the holy-grail money-making perspective that many companies are chasing. They are looking to surveil more, at a lower cost, with greater accuracy and return on their investments. Our digital civil rights in the meantime continue to be trampled. Companies protect their interests by invoking their intellectual property rights, using patents and trade secrets in particular. They can keep their business opaque. It’ll be equitable appropriate if every person could legally invoke their personal data privacy in the same way. I wish I could patent my personal characteristics and declare my online activities as trade secrets.
+
+With all of our access to information, both in digital and analog format, U.S. adults are literate (that’s roughly 79% as of 2022) but suffer from a dwindling lack of reading comprehension. 54% of adults have a literacy below sixth-grade level, according to a 2020 Gallup analysis. As such, we’re more susceptible to believing disinformation as accurate information. We are also more likely to overlook potential digital civil rights breaches. We aren’t building a generation of strong critical thinkers. In fact, the trend is going in the opposite direction. The 2021 American Time Use Survey revealed “[t]ime spent reading for personal interest varied greatly by age. Individuals age 75 and over averaged 41 minutes of reading per day, whereas individuals ages 15 to 44 read on average for 10 minutes or less per day.” These numbers are abysmal but not startling, if you’re an educator at any level.
+
+We’re at high risk of being humans on the outside but bots on the inside. We’re at high risk of not caring that we are dependent on an algorithm’s outcomes and outputs from AI-assisted tools to make decisions for us without the ability to critique or vet these outcomes. Relinquishing our agency is conceding to computational automaton and other forms of automated decisions systems. So start reading like a 75 year old.
+
+Average Contract Value is an important metric in SaaS. If it’s trending up and to the right, it’s a sign that customers are upgrading more than they’re downgrading, the base is getting more “enterprisey”, and you’re really focusing on the ideal customer. However, the last 73 SaaS companies to IPO had a modest median ACV of $49,263, which shows you don’t have to get to six figure contracts to build a great SaaS business. A few observations:
+
+Bigger software companies have smaller ACV’s. To do the analysis, we looked at each companies’ annual revenue relative to the number of customers prior to IPO (all contained in a filing called an S1). Upon going public, the median ACV was only $49,263. This makes sense as the universe of clients that can afford a lower ACV is much higher than those that can afford a $100,000+ ACV. By focusing on a moderate ACV of $25k to $50k, you’ll be going after a larger market and have the opportunity to be a bigger, IPO worthy company.
+
+Increases in ACV aren’t free. In order to increase ACV, it means some other metric of importance gets worse; for instance, the sales cycle gets longer, the close ratio comes down, churn can increase, and the number of leads needed to complete a sale increases. Enterprise customers have more layers of management to achieve an approval, more time required to identify the decision maker, and more bureaucracy. It’s not uncommon to see sales cycles of 4 to 6 months for ACV’s over $20k and 6 to 9 months when ACV’s get to $100k+.
+
+The trend is more important. The trend of your ACV (whether it is rising or falling) is more important than the actual dollar amount. Make sure the trend is moving towards your ICP (ideal customer profile).
+
+ACV is a metric that should be monitored, but don’t change the way you sell in order to artificially increase it. Rather, focus on generating the most revenue you can as cash efficiently as possible. Make sure you’re selling to the ICP and retaining and upselling the customer.
+
+More than half of U.S. doctors receive various forms of payment — ranging from consulting fees to travel and gifts — from pharmaceutical companies, whose industry spends more than $2 billion a year to encourage them to write drug prescriptions. No surprise, doctors who take this money prescribe more of a company’s products. Perhaps this helps explain why the number of people taking prescription antidepressants rose 15% between 2015 and 2019, soaring 38% in teenagers and raising serious concerns among many medical and scientific experts.
+
+Meanwhile, the single best treatment for stress, anxiety and depression — one that’s inexpensive and whose side effects are almost entirely positive — is well known to scientists but rarely prescribed by doctors.
+
+Physical activity is 1.5 times more effective than leading medications or counseling efforts like psychotherapy for reducing symptoms of anxiety and depression as well as distress, according to a comprehensive new review of scientific research. Distress is defined as “emotional, social, spiritual, or physical pain or suffering that may cause a person to feel sad, afraid, depressed, anxious, or lonely.”
+
+The effect was found in healthy individuals as well as people with diagnosed mental disorders or other chronic diseases that can cause anxiety disorder or lead to clinical depression.
+
+Physical activity is like a wonder drug for human moods, for a host of well-understood reasons, not the least of which is that it releases chemicals like dopamine, noradrenaline and serotonin that make us feel good right away and which build up over time.
+
+“Yet despite the evidence, it has not been widely adopted as a first-choice treatment,” said study leader Ben Singh, PhD, a research fellow at the University of South Australia.
+
+“Physical activity has numerous benefits compared with psychotherapy and medications, in terms of costs and side effects and long-term health,” Singh told me. “Doctors and other medical professionals should consider prescribing exercise for patients experiencing symptoms of depression, anxiety, stress, or other mental health concerns.”
+
+This is not to say medications and other treatments aren’t useful, sometimes in combination with physical activity. But antidepressants don’t work for everyone, and the slew of various drugs prescribed for mental health conditions — often more than one at a time — come with serious side effects.
+
+[Update March 2: Several readers have noted in the comments that for some cases of severe depression or anxiety disorder, medications and/or talk therapy can be vital treatment options. This article is not meant to dismiss either, but rather to stress the underappreciated, tremendous value of physical activity and the importance of healthcare providers (and patients) considering exercise as a front-line treatment, alone or in conjunction with medications and other therapies, on a case-by-case basis.]
+
+Singh and colleagues analyzed 97 existing scientific reviews of more than 1,000 trials involving 128,119 participants altogether. The results, published this month in the British Journal of Sports Medicine, suggest just about any sort of activity, and any duration, can be helpful. The most effective interventions lasted 12 weeks or less, indicating that benefits come quickly.
+
+“Higher intensity exercise had greater improvements for depression and anxiety, while longer durations had smaller effects when compared to short and mid-duration bursts,” Singh said in a statement. “We also found that all types of physical activity and exercise were beneficial, including aerobic exercise such as walking, resistance training, Pilates, and yoga.”
+
+While the study did not analyze chronic stress, other research has shown it, too, benefits from physical activity; Singh said his team’s findings likely apply to chronic stress, too.
+
+Remedy for a vast and growing need
+In a survey last fall, 27% of U.S. adults said they’re so stressed most days that they can’t function normally, and three-quarters said stress had caused feelings of nervousness, anxiety, sadness, depression, fatigue or a headache at least once in the past month.
+
+As I wrote recently, neverending crises like the pandemic, inflation, misinformation, mass shootings and war have put many people into a state of permastress, which releases a constant trickle of damaging chemicals into the brain and body, wreaking slow havoc at the cellular level, drip by daily drip.
+
+
+Compared to the many different drugs prescribed for stress, anxiety or depression — alone or in combinations — exercise combats all of these conditions. So it can help to understand the differences and similarities of all three. Chronic stress and anxiety are similar yet distinct. They don’t happen to us. Rather, they are our reactions to what’s going on — or what we think might be going on.
+
+Stress, for example, is an emotional and physical manifestation of how we perceive, process and react to events, situations and other stimuli. Stress raises blood pressure and breathing rate and can cause sweaty palms, perhaps a lump in the throat, and a muddled mind.
+
+Anxiety, on the other hand, is caused by our worries over things that may or may not happen — those undefined feelings of concern that fester under the surface of consciousness causing symptoms similar to stress, before occasionally busting out in sudden bouts of a racing heart, chest pain or dizziness.
+
+Left untreated, stress and anxiety can become constant — chronic — and lead to depression.
+
+We all experienced depressed moods. That’s normal. Until it’s not, as one expert explained to me:
+
+A little gloom can help us appreciate good times, explains Deanna Barch, PhD, a professor of psychological and brain sciences at Washington University in St. Louis. But severe depression, which can come and go in phases or settle in for the long haul, is an entirely different beast. “When people are chronically depressed, they have low motivation, don’t enjoy things, have disrupted sleep, can’t function, can’t concentrate, can’t engage with people,” Barch said in a phone interview.
+
+‘The body learns how to feel better’
+Search the internet, and you’ll be hard-pressed to find a major medical organization promoting exercise as the front-line treatment for mental health conditions, let alone suggesting it be prescribed.
+
+Yet exercise is so good for the body and mind that the University of Vermont Medical Center went so far as to build a gym on-site and do a study of people diagnosed with clinical depression. The participants were put on a structured exercise program three times a week for two weeks. The results:
+
+95% of the people reported improved moods
+91% said they were pleased with how their bodies felt
+63% said they were happy or very happy
+When I wrote about this back in 2020, I asked the study’s leader, David Tomasi, PhD, a licensed psychologist-psychotherapist and inpatient psychiatry group therapist, whether exercise and/or physical activity should be formally prescribed in lieu of or in addition to medication for some conditions.
+
+“Yes, yes, and yes,” Tomasi told me.
+
+Repeated doses of the feel-good chemicals released by physical activity can generate a mental makeover, in which the brain becomes more resilient in dealing with emotions and more conditioned to positive change, Tomasi explained. “The body learns how to feel better, which is also ‘to get better at feeling,’” he said.
+
+I’ll keep this short because I know you’re busy.
+
+In fact, if you’re running your own business and working from home, you’re busier than most of the people I know working for big companies.
+
+That’s because it’s much easier to coast when you’re not the only one responsible for bringing in business and paying the bills.
+
+The fact that Twitter could lay off three-quarters of its employees with no noticeable effect on the company’s operations is the clearest proof you could ask for that many employees are doing fuck-all with their days while still collecting a paycheck.
+
+The Many Benefits of Corporate Employment
+The material benefits are real
+Employees joke about how much value they get in mooching free office supplies at work. It’s less of a laughing matter once you’re paying for everything yourself. Those printers, ink, pens, envelopes, and postage add up!
+
+That’s the very least of it. Your company also supplies you with a computer and phone and makes sure they are kept up-to-date. I always had the latest of both and never paid a penny for them. Plus, I had free IT staff on call 24–7 if I ever had a question or problem.
+
+Tablets and smart phones on a desk next to a computer
+Image by Photo Mix from Pixabay
+Of course, we need to add your salary and benefits to the mix. The predictability of a paycheck goes a long way toward easing the pain of earning it.
+
+Getting healthcare paid for is a huge benefit for many. Not only that, but because companies want you to be productive, they invest in corporate wellness programs to keep you physically and mentally fit.
+
+There are also performance benefits
+Anyone who has ever struggled with procrastination will appreciate that having deadlines imposed by a boss is sometimes a blessing in disguise. When you simply must get something done, you usually get it done.
+
+Then there’s the fact that in a corporate environment, you get regular feedback about your performance. You have at least an annual performance evaluation. While it hurts to get constructive criticism, your company genuinely wants you to improve.
+
+Your company not only wants you to improve, but it will actively help you do so. For example, big companies offer plentiful training opportunities. From internal training to online courses and sometimes even external classes, you’re limited more by your desires than what’s on offer.
+
+Crowded lecture hall with speaker at a podium
+Image by Mari Smith from Pixabay
+And don’t underestimate the personal benefits
+A big company offers plentiful opportunities for social interaction. Some say they hate all their work colleagues, which is a real shame if true. Many employees have good friends at work and easily interact with their other colleagues.
+
+I traveled the world on the corporate dime. Not everyone’s company or job will accommodate this, but if you do travel for business, you can visit amazing places for free. My company was global, and I had a global job, so I traveled frequently. Yes, I worked wherever I went. But I also filled my passport with stamps on many paid trips to Asia, Europe, and the Americas.
+
+Yes, But When I’m My Own Boss, I Have Freedom
+This is true, and we are right to value it highly. When we work for ourselves, we have the ultimate freedom. But freedom comes with a price:
+
+You pay for everything you need to run your business.
+You are responsible for your own motivation, performance, and development.
+You will feel lonely sometimes because you don’t have the same automatic network of colleagues.
+
+Image by Tracy Lundgren from Pixabay
+What price freedom? For many, the answer is, “My freedom is worth any price.”
+
+That’s a good thing to acknowledge. Because the fact is most people working for themselves are paid handsomely. At least compared to what they are leaving on the table by leaving corporate employment.
+
+Be well.
+
+If you want to know how to thrive in the corporate world, click here.
+
+If you would rather stay away and just live a good life, check out A Little Stoic Wisdom.
+
+And if you just want to feel happier, see The Overwhelming Case for Optimism — Read on to Feel Better Immediately.
